@@ -1,2 +1,2 @@
 # tf_2_tvm
-convert tensorflow network to tvm runtime model
+convert tensorflow model to tvm runtime package.
